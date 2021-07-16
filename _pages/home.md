@@ -44,7 +44,7 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-6 col-lg-3">
     <a href="http://jingzhang617.github.io/">
-      <img class="people-pic" src="{{ "./static/img/people/jing_zhang.jpg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "../static/img/people/jing_zhang.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="http://jingzhang617.github.io/">Jing Zhang</a>
@@ -53,7 +53,7 @@ acknowledgements: ""
   </div>
   <div class="col-xs-6 col-lg-3">
     <a href="https://sites.google.com/site/daiyuchao/">
-      <img class="people-pic" src="{{ "/static/img/people/daiyuchao.jpg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "../static/img/people/daiyuchao.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://sites.google.com/site/daiyuchao/">Yuchao Dai</a>
@@ -63,7 +63,7 @@ acknowledgements: ""
 	
   <div class="col-xs-6 col-lg-3">
     <a href="http://dpfan.net/">
-      <img class="people-pic" src="{{ "/static/img/people/fdp.jpg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "../static/img/people/fdp.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="http://dpfan.net/">Deng-Ping Fan</a>
@@ -73,7 +73,7 @@ acknowledgements: ""
 	
   <div class="col-xs-6 col-lg-3">
     <a href="http://users.cecs.anu.edu.au/~nmb/">
-      <img class="people-pic" src="{{ "/static/img/people/nick.jpg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "../static/img/people/nick.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="http://users.cecs.anu.edu.au/~nmb/">Nick Barnes</a>
@@ -83,7 +83,7 @@ acknowledgements: ""
 	
   <div class="col-xs-6 col-lg-3">
     <a href="https://people.csiro.au/m/p/peyman-moghadam/">
-      <img class="people-pic" src="{{ "/static/img/people/peyman.jpg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "../static/img/people/peyman.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://people.csiro.au/m/p/peyman-moghadam/">Peyman Moghadam</a>
@@ -93,7 +93,7 @@ acknowledgements: ""
 
 <div class="col-xs-6 col-lg-3">
     <a href="https://cecs.anu.edu.au/people/christian-walder/">
-      <img class="people-pic" src="{{ "/static/img/people/walder.jpg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "../static/img/people/walder.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://cecs.anu.edu.au/people/christian-walder/">Christian Walder</a>
@@ -103,7 +103,7 @@ acknowledgements: ""
 
 <div class="col-xs-6 col-lg-3">
     <a href="https://www.monash.edu/engineering/mehrtashharandi/">
-      <img class="people-pic" src="{{ "/static/img/people/mehrtash.jpg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "../static/img/people/mehrtash.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://www.monash.edu/engineering/mehrtashharandi/">Mehrtash Harandi</a>
