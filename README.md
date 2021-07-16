@@ -1,4 +1,2 @@
-# explainablevision.github.io
-Webpage source files for Robust, Trustworthy and Explainable Computer Vision Tutorial at ICCV'21
-
-https://explainablevision.github.io/
+# uncertaintyestimation_iccv21.github.io
+Webpage source files for Uncertainty Estimation for Dense Prediction Tasks tutorial at ICCV'21

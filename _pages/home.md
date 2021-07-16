@@ -1,8 +1,8 @@
 ---
 layout: project
-urltitle:  "Towards Robust, Trustworthy, and Explainable Computer Vision"
-title: "Towards Robust, Trustworthy, and Explainable Computer Vision"
-categories: tutorial, computer vision, robustness, interpretability, trustworthy, explainability, natural language, grounding, machine learning, iccv, 2021
+urltitle:  "Uncertainty Estimation for Dense Prediction Tasks"
+title: "Uncertainty Estimation for Dense Prediction Tasks"
+categories: tutorial, computer vision, uncertainty, dense prediction, iccv, 2021
 permalink: /
 bibtex: true
 paper: true
@@ -12,7 +12,7 @@ acknowledgements: ""
 <br />
 <div class="row">
   <div class="col-xs-12">
-    <center><h1>Towards Robust, Trustworthy, and Explainable Computer Vision</h1></center>
+    <center><h1>Uncertainty Estimation for Dense Prediction Tasks</h1></center>
     <center><h2>Oct 11 - Oct 17, 2021. ICCV Tutorial, Montreal, Canada.</h2></center>
   </div>
 </div>
@@ -22,7 +22,7 @@ acknowledgements: ""
 <div class="row">
     <div class="col-xs-12">
         <p>
-	  This is a half-day tutorial that aims to introduce participants to different aspects of computer vision models beyond performance -- robustness, trustworthiness and explainability. 
+	  This is a half-day tutorial that aims to introduce uncertainty for dense prediction tasks. 
         </p>
     </div>
 </div>
@@ -37,7 +37,7 @@ acknowledgements: ""
       <select id="timezone-select" class="form-control"></select>
   </div>
 </div>
-<div class="row">
+<!-- <div class="row">
   <div class="col-xs-12">
     <table class="table table-striped" id="schedule-table">
     <tbody>
@@ -52,9 +52,9 @@ acknowledgements: ""
     </tbody>
     </table>
   </div>
-</div>
+</div> -->
 
-<hr />
+<!-- <hr /> -->
 
 <!-- Speakers -->
 <div class="row" id="speakers">
@@ -64,39 +64,73 @@ acknowledgements: ""
 </div>
 <div class="row">
   <div class="col-xs-6 col-lg-3">
-    <a href="http://ramprs.github.io/">
-      <img class="people-pic" src="{{ "/static/img/people/ram.jpg" | prepend:site.baseurl }}">
+    <a href="http://jingzhang617.github.io/">
+      <img class="people-pic" src="{{ "/static/img/people/jing_zhang.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="http://ramprs.github.io/">Ramprasaath R. Selvaraju</a>
-      <h6>Salesforce Research</h6>
+      <a href="http://jingzhang617.github.io/">Jing Zhang</a>
+      <h6>The Australian National University</h6>
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
-    <a href="http://bzhou.ie.cuhk.edu.hk/">
-      <img class="people-pic" src="{{ "/static/img/people/bolei.jpg" | prepend:site.baseurl }}">
+    <a href="https://sites.google.com/site/daiyuchao/">
+      <img class="people-pic" src="{{ "/static/img/people/daiyuchao.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="http://bzhou.ie.cuhk.edu.hk/">Bolei Zhou</a>
-      <h6>Chinese University of Hong Kong</h6>
+      <a href="https://sites.google.com/site/daiyuchao/">Yuchao Dai</a>
+      <h6>Northwestern Polytechnical University</h6>
     </div>
   </div>
+	
   <div class="col-xs-6 col-lg-3">
-    <a href="https://people.csail.mit.edu/madry/">
-      <img class="people-pic" src="{{ "/static/img/people/madry.jpg" | prepend:site.baseurl }}">
+    <a href="http://dpfan.net/">
+      <img class="people-pic" src="{{ "/static/img/people/dengpingfan.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://people.csail.mit.edu/madry/">Aleksander Madry</a>
-      <h6>MIT</h6>
+      <a href="http://dpfan.net/">Deng-Ping Fan</a>
+      <h6>Inception Institute of Artificial Intelligence</h6>
     </div>
   </div>
+	
   <div class="col-xs-6 col-lg-3">
-    <a href="https://www.sarahooker.me/">
-      <img class="people-pic" src="{{ "/static/img/people/sara.png" | prepend:site.baseurl }}">
+    <a href="http://users.cecs.anu.edu.au/~nmb/">
+      <img class="people-pic" src="{{ "/static/img/people/nick.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://www.sarahooker.me/">Sara Hooker</a>
-      <h6>Google Research</h6>
+      <a href="http://users.cecs.anu.edu.au/~nmb/">Nick Barnes</a>
+      <h6>The Australian National University</h6>
+    </div>
+  </div>
+	
+  <div class="col-xs-6 col-lg-3">
+    <a href="https://people.csiro.au/m/p/peyman-moghadam/">
+      <img class="people-pic" src="{{ "/static/img/people/peyman.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://people.csiro.au/m/p/peyman-moghadam/">Peyman Moghadam</a>
+      <h6>CSIRO</h6>
+    </div>
+  </div>
+</div>
+
+<div class="col-xs-6 col-lg-3">
+    <a href="https://cecs.anu.edu.au/people/christian-walder/">
+      <img class="people-pic" src="{{ "/static/img/people/walder.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://cecs.anu.edu.au/people/christian-walder/">Christian Walder</a>
+      <h6>CSIRO</h6>
+    </div>
+  </div>
+</div>
+
+<div class="col-xs-6 col-lg-3">
+    <a href="https://www.monash.edu/engineering/mehrtashharandi/">
+      <img class="people-pic" src="{{ "/static/img/people/mehrtash.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://www.monash.edu/engineering/mehrtashharandi/">Mehrtash Harandi</a>
+      <h6>CSIRO</h6>
     </div>
   </div>
 </div>
@@ -104,7 +138,7 @@ acknowledgements: ""
 <hr />
 
 <!-- Organizers -->
-<div class="row" id="organizers">
+<!-- <div class="row" id="organizers">
   <div class="col-xs-12">
     <h2>Organizers</h2>
   </div>
@@ -128,22 +162,27 @@ acknowledgements: ""
       <h6>Chinese University of Hong Kong</h6>
     </div>
   </div>
-</div>
+</div> -->
 
-<hr />
+<!-- <hr /> -->
 <!-- Intro -->
 <div class="row" id="intro">
     <div class="col-xs-12">
         <h2>Introduction</h2>
-        <p>Convolutional Neural Networks (CNNs) and other deep networks have enabled unprecedented breakthroughs in a variety of computer vision tasks, from image classification to object detection, semantic segmentation, image captioning, visual question answering, and visual dialog. While these models enable superior performance, their lack of decomposability into individually intuitive components makes them hard to interpret. Consequently, when today’s intelligent systems fail, they often fail spectacularly disgracefully without warning or explanation, leaving a user staring at an incoherent output, wondering why the system did what it did. In order to be able to build trust in intelligent systems and move towards their meaningful integration into our everyday lives, we must build `transparent' models that have the ability to explain why they predict what they predict. </p>
-        <p>This tutorial will introduce participants to different aspects of computer vision models beyond performance. Ramprasaath R. Selvaraju will focus on explainable-AI methodologies and how understanding the decision process helps fixing various characteristics of the model. Sara Hooker will address the trustworthiness and the social impact of vision models. Bolei Zhou will focus on the interactive aspect of dissected vision models and its implication to visual editing applications. Aleksander Madry will focus on the robustness of vision models. Therefore, in this tutorial there will be a unification of different perspectives beyond test-set performance that are just as important to have in vision models. </p>
+        <p>Deep neural networks are generally treated as deterministic networks, where a single prediction is produced. They intend to learn a mapping function from the input space to the output space via maximum likelihood estimation (MLE) for the weights. Deep models can also be explained as working on point estimation. A specific weights set is estimated while ignoring any uncertainty that may have in the proper weight values. This type of learning is often susceptible to overfitting. In this tutorial, we will first illustrate the importance of uncertainty estimation, especially uncertainty estimation in dense prediction tasks Then we will summarize existing uncertainty estimation methods. Due to the close connection between uncertainty estimation and model calibration, we further introduce how uncertainty estimation can be used for deep model calibration, especially for dense model calibration.
+
+In this tutorial, we will discuss uncertainty estimation in the following topics:
+1. The definition of uncertainty estimation and the widely studied solutions.
+2. Typical work uncertainty estimation techniques in dense prediction tasks.
+3. The implementation details and tricks for applying different uncertainty estimation solutions in various dense prediction tasks.
+        </p>
     </div>
 </div>
 
 <hr />
 
 <!-- Speaker Relevance -->
-<div class="row" id="speaker">
+<!-- <div class="row" id="speaker">
     <div class="col-xs-12">
         <h2>Speaker Relevance</h2>
         <p>The tutorial lectures will be given by several well-known researchers specialized in computer vision and the topic relevant to explainability, fairness, generalization, robustness of visual models. 
@@ -152,6 +191,6 @@ Sara Hooker has done work on benchmarking interpretability techniques and unders
         
 <p>We believe that this tutorial will give the vision community not only an educational crash course on explainable, robust and trustworthy AI, but also inspire deeper thinking about the visual models we are training. </p>
     </div>
-</div>
+</div> -->
 
 
