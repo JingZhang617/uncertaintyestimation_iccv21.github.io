@@ -81,24 +81,6 @@ acknowledgements: ""
       <h6>Northwestern Polytechnical University</h6>
     </div>
   </div>
-  <div class="col-xs-6 col-lg-3">
-    <a href="https://people.csail.mit.edu/madry/">
-      <img class="people-pic" src="{{ "/static/img/people/madry.jpg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="https://people.csail.mit.edu/madry/">Aleksander Madry</a>
-      <h6>MIT</h6>
-    </div>
-  </div>
-  <div class="col-xs-6 col-lg-3">
-    <a href="https://www.sarahooker.me/">
-      <img class="people-pic" src="{{ "/static/img/people/sara.png" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="https://www.sarahooker.me/">Sara Hooker</a>
-      <h6>Google Research</h6>
-    </div>
-  </div>
 </div>
 
 <hr />
