@@ -84,7 +84,7 @@ acknowledgements: ""
 	
   <div class="col-xs-6 col-lg-3">
     <a href="http://dpfan.net/">
-      <img class="people-pic" src="{{ "/static/img/people/dengpingfan.jpg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/static/img/people/fdp.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="http://dpfan.net/">Deng-Ping Fan</a>
