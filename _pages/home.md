@@ -54,7 +54,7 @@ acknowledgements: ""
   </div>
 </div> -->
 
-<hr />
+<!-- <hr /> -->
 
 <!-- Speakers -->
 <div class="row" id="speakers">
@@ -64,12 +64,12 @@ acknowledgements: ""
 </div>
 <div class="row">
   <div class="col-xs-6 col-lg-3">
-    <a href="http://ramprs.github.io/">
-      <img class="people-pic" src="{{ "/static/img/people/ram.jpg" | prepend:site.baseurl }}">
+    <a href="http://jingzhang617.github.io/">
+      <img class="people-pic" src="{{ "/static/img/people/jing.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="http://ramprs.github.io/">Ramprasaath R. Selvaraju</a>
-      <h6>Salesforce Research</h6>
+      <a href="http://jingzhang617.github.io/">Jing Zhang</a>
+      <h6>Jing Zhang</h6>
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
