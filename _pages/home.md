@@ -130,7 +130,7 @@ acknowledgements: ""
   </div>
 </div> -->
 
-<hr />
+<!-- <hr /> -->
 <!-- Intro -->
 <div class="row" id="intro">
     <div class="col-xs-12">
@@ -148,7 +148,7 @@ In this tutorial, we will discuss uncertainty estimation in the following topics
 <hr />
 
 <!-- Speaker Relevance -->
-<div class="row" id="speaker">
+<!-- <div class="row" id="speaker">
     <div class="col-xs-12">
         <h2>Speaker Relevance</h2>
         <p>The tutorial lectures will be given by several well-known researchers specialized in computer vision and the topic relevant to explainability, fairness, generalization, robustness of visual models. 
@@ -157,6 +157,6 @@ Sara Hooker has done work on benchmarking interpretability techniques and unders
         
 <p>We believe that this tutorial will give the vision community not only an educational crash course on explainable, robust and trustworthy AI, but also inspire deeper thinking about the visual models we are training. </p>
     </div>
-</div>
+</div> -->
 
 
