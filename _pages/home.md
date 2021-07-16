@@ -104,7 +104,7 @@ acknowledgements: ""
 <hr />
 
 <!-- Organizers -->
-<div class="row" id="organizers">
+<!-- <div class="row" id="organizers">
   <div class="col-xs-12">
     <h2>Organizers</h2>
   </div>
@@ -128,7 +128,7 @@ acknowledgements: ""
       <h6>Chinese University of Hong Kong</h6>
     </div>
   </div>
-</div>
+</div> -->
 
 <hr />
 <!-- Intro -->
