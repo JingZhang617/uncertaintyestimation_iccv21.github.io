@@ -44,7 +44,7 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-6 col-lg-3">
     <a href="http://jingzhang617.github.io/">
-      <img class="people-pic" src="{{ "../static/img/people/jing_zhang.jpg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "./static/img/people/jing_zhang.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="http://jingzhang617.github.io/">Jing Zhang</a>
@@ -53,7 +53,7 @@ acknowledgements: ""
   </div>
   <div class="col-xs-6 col-lg-3">
     <a href="https://sites.google.com/site/daiyuchao/">
-      <img class="people-pic" src="{{ "../static/img/people/daiyuchao.jpg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "./static/img/people/daiyuchao.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://sites.google.com/site/daiyuchao/">Yuchao Dai</a>
@@ -63,7 +63,7 @@ acknowledgements: ""
 	
   <div class="col-xs-6 col-lg-3">
     <a href="http://dpfan.net/">
-      <img class="people-pic" src="{{ "../static/img/people/fdp.jpg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "./static/img/people/fdp.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="http://dpfan.net/">Deng-Ping Fan</a>
@@ -73,7 +73,7 @@ acknowledgements: ""
 	
   <div class="col-xs-6 col-lg-3">
     <a href="http://users.cecs.anu.edu.au/~nmb/">
-      <img class="people-pic" src="{{ "../static/img/people/nick.jpg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "./static/img/people/nick.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="http://users.cecs.anu.edu.au/~nmb/">Nick Barnes</a>
@@ -83,7 +83,7 @@ acknowledgements: ""
 	
   <div class="col-xs-6 col-lg-3">
     <a href="https://people.csiro.au/m/p/peyman-moghadam/">
-      <img class="people-pic" src="{{ "../static/img/people/peyman.jpg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "./static/img/people/peyman.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://people.csiro.au/m/p/peyman-moghadam/">Peyman Moghadam</a>
@@ -93,7 +93,7 @@ acknowledgements: ""
 
 <div class="col-xs-6 col-lg-3">
     <a href="https://cecs.anu.edu.au/people/christian-walder/">
-      <img class="people-pic" src="{{ "../static/img/people/walder.jpg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "./static/img/people/walder.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://cecs.anu.edu.au/people/christian-walder/">Christian Walder</a>
@@ -103,7 +103,7 @@ acknowledgements: ""
 
 <div class="col-xs-6 col-lg-3">
     <a href="https://www.monash.edu/engineering/mehrtashharandi/">
-      <img class="people-pic" src="{{ "../static/img/people/mehrtash.jpg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "./static/img/people/mehrtash.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://www.monash.edu/engineering/mehrtashharandi/">Mehrtash Harandi</a>
@@ -113,34 +113,6 @@ acknowledgements: ""
 
 <hr />
 
-<!-- Organizers -->
-<!-- <div class="row" id="organizers">
-  <div class="col-xs-12">
-    <h2>Organizers</h2>
-  </div>
-</div>
-<div class="row">
-  <div class="col-xs-6 col-lg-3">
-    <a href="http://ramprs.github.io/">
-      <img class="people-pic" src="{{ "/static/img/people/ram.jpg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="http://ramprs.github.io/">Ramprasaath R. Selvaraju</a>
-      <h6>Salesforce Research</h6>
-    </div>
-  </div>
-  <div class="col-xs-6 col-lg-3">
-    <a href="http://bzhou.ie.cuhk.edu.hk/">
-      <img class="people-pic" src="{{ "/static/img/people/bolei.jpg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="http://bzhou.ie.cuhk.edu.hk/">Bolei Zhou</a>
-      <h6>Chinese University of Hong Kong</h6>
-    </div>
-  </div>
-</div> -->
-
-<!-- <hr /> -->
 <!-- Intro -->
 <div class="row" id="intro">
     <div class="col-xs-12">
@@ -154,19 +126,5 @@ In this tutorial, we will discuss uncertainty estimation in the following topics
         </p>
     </div>
 </div>
-
-<hr />
-
-<!-- Speaker Relevance -->
-<!-- <div class="row" id="speaker">
-    <div class="col-xs-12">
-        <h2>Speaker Relevance</h2>
-        <p>The tutorial lectures will be given by several well-known researchers specialized in computer vision and the topic relevant to explainability, fairness, generalization, robustness of visual models. 
-For example, Dr. Selvaraju has done work on generating visual explanations for decisions emanating from any deep network-- in order to debug and diagnose network errors, enable knowledge transfer between humans and AI, and correct unwanted biases that may be learned by a network during training. Prof. Zhou has done several works on the visualization and interpretation of the semantic units of deep neural networks for both discriminative and generative models. Prof. Madry has done much work on identifying biases learned by deep models, introduced several benchmarks to evaluate the robustness of vision models, and adversarial machine learning.
-Sara Hooker has done work on benchmarking interpretability techniques and understanding the biases introduced during network compression in order to build fair and trustworthy AI systems. </p>
-        
-<p>We believe that this tutorial will give the vision community not only an educational crash course on explainable, robust and trustworthy AI, but also inspire deeper thinking about the visual models we are training. </p>
-    </div>
-</div> -->
 
 
