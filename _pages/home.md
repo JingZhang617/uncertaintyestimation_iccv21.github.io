@@ -73,12 +73,12 @@ acknowledgements: ""
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
-    <a href="http://bzhou.ie.cuhk.edu.hk/">
-      <img class="people-pic" src="{{ "/static/img/people/bolei.jpg" | prepend:site.baseurl }}">
+    <a href="https://sites.google.com/site/daiyuchao/">
+      <img class="people-pic" src="{{ "/static/img/people/daiyuchao.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="http://bzhou.ie.cuhk.edu.hk/">Bolei Zhou</a>
-      <h6>Chinese University of Hong Kong</h6>
+      <a href="https://sites.google.com/site/daiyuchao/">Yuchao Dai</a>
+      <h6>Northwestern Polytechnical University</h6>
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
