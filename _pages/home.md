@@ -1,8 +1,8 @@
 ---
 layout: project
-urltitle:  "Towards Robust, Trustworthy, and Explainable Computer Vision"
-title: "Towards Robust, Trustworthy, and Explainable Computer Vision"
-categories: tutorial, computer vision, robustness, interpretability, trustworthy, explainability, natural language, grounding, machine learning, iccv, 2021
+urltitle:  "Uncertainty Estimation for Dense Prediction Tasks"
+title: "Uncertainty Estimation for Dense Prediction Tasks"
+categories: tutorial, computer vision, uncertainty, dense prediction, iccv, 2021
 permalink: /
 bibtex: true
 paper: true
@@ -12,7 +12,7 @@ acknowledgements: ""
 <br />
 <div class="row">
   <div class="col-xs-12">
-    <center><h1>Towards Robust, Trustworthy, and Explainable Computer Vision</h1></center>
+    <center><h1>Uncertainty Estimation for Dense Prediction Tasks</h1></center>
     <center><h2>Oct 11 - Oct 17, 2021. ICCV Tutorial, Montreal, Canada.</h2></center>
   </div>
 </div>
@@ -22,7 +22,7 @@ acknowledgements: ""
 <div class="row">
     <div class="col-xs-12">
         <p>
-	  This is a half-day tutorial that aims to introduce participants to different aspects of computer vision models beyond performance -- robustness, trustworthiness and explainability. 
+	  This is a half-day tutorial that aims to introduce uncertainty for dense prediction tasks. 
         </p>
     </div>
 </div>
@@ -37,7 +37,7 @@ acknowledgements: ""
       <select id="timezone-select" class="form-control"></select>
   </div>
 </div>
-<div class="row">
+<!-- <div class="row">
   <div class="col-xs-12">
     <table class="table table-striped" id="schedule-table">
     <tbody>
@@ -52,7 +52,7 @@ acknowledgements: ""
     </tbody>
     </table>
   </div>
-</div>
+</div> -->
 
 <hr />
 
