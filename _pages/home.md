@@ -131,7 +131,7 @@ In this tutorial, we will discuss uncertainty estimation in the following topics
 <div class="row" id="links">
     <div class="col-xs-12">
         <h2>Useful Links</h2>
-        <p>All the related materials can be found at: <p><a href="https://github.com/JingZhang617/latent_variable_models/"></a></p>
+        <p>All the related materials can be found at: <a href="https://github.com/JingZhang617/latent_variable_models/"></a>
         </p>
     </div>
 </div>
