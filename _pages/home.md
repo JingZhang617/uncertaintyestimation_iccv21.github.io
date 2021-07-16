@@ -1,4 +1,4 @@
-<!-- ---
+---
 layout: project
 urltitle:  "Uncertainty Estimation for Dense Prediction Tasks"
 title: "Uncertainty Estimation for Dense Prediction Tasks"
@@ -7,7 +7,7 @@ permalink: /
 bibtex: true
 paper: true
 acknowledgements: ""
---- -->
+---
 
 <br />
 <div class="row">
