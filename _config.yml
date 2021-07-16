@@ -7,5 +7,3 @@ baseurl: "" # the subpath of your site, e.g. /blog
 markdown: kramdown
 include: ['_pages']
 ga_id: UA-144588579-1
-
-theme: jekyll-theme-slate
