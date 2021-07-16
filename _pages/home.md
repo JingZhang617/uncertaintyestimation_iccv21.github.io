@@ -33,28 +33,7 @@ acknowledgements: ""
   <div class="col-md-4 col-xs-12">
     <h2>Schedule</h2>
   </div>
-  <div class="col-md-8 col-xs-12">
-      <select id="timezone-select" class="form-control"></select>
-  </div>
 </div>
-<!-- <div class="row">
-  <div class="col-xs-12">
-    <table class="table table-striped" id="schedule-table">
-    <tbody>
-    <tr> <th scope="row" data-time="11:15">11:15 AM</th> <td>Opening Remarks</td></tr>
-    <tr> <th scope="row" data-time="11:30">11:30 AM</th> <td>Talk 1: "Explaining Model Decisions and Fixing Them via Human Feedback" by Ramprasaath R. Selvaraju </td></tr>
-    <tr> <th scope="row" data-time="12:15">12:15 PM</th> <td>Talk 2: "Characterizing Bias and Developing Trustworthy AI Models" by Sara Hooker</td></tr>
-    <tr> <th scope="row" data-time="13:00">01:00 PM</th> <td>Break</td></tr>
-    <tr> <th scope="row" data-time="13:30">01:30 PM</th> <td>Talk 3: "Interacting with Deep AI Models" by Bolei Zhou</td> </tr>
-    <tr> <th scope="row" data-time="14:15">02:15 PM</th> <td>Talk 4: "Adversarially Robust Models as Visual Priors" by Aleksander Madry</td></tr>
-    <tr> <th scope="row" data-time="15:00">03:00 PM</th> <td>Panel Discussion</td> </tr>
-    <tr> <th scope="row" data-time="15:30">03:30 PM</th> <td>Closing Remark</td> </tr>
-    </tbody>
-    </table>
-  </div>
-</div> -->
-
-<!-- <hr /> -->
 
 <!-- Speakers -->
 <div class="row" id="speakers">
@@ -65,7 +44,7 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-6 col-lg-3">
     <a href="http://jingzhang617.github.io/">
-      <img class="people-pic" src="{{ "../static/img/people/jing_zhang.jpg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "./static/img/people/jing_zhang.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="http://jingzhang617.github.io/">Jing Zhang</a>
