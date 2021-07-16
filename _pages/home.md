@@ -111,7 +111,6 @@ acknowledgements: ""
       <h6>CSIRO</h6>
     </div>
   </div>
-</div>
 
 <div class="col-xs-6 col-lg-3">
     <a href="https://cecs.anu.edu.au/people/christian-walder/">
@@ -122,7 +121,6 @@ acknowledgements: ""
       <h6>CSIRO</h6>
     </div>
   </div>
-</div>
 
 <div class="col-xs-6 col-lg-3">
     <a href="https://www.monash.edu/engineering/mehrtashharandi/">
@@ -133,7 +131,6 @@ acknowledgements: ""
       <h6>CSIRO</h6>
     </div>
   </div>
-</div>
 
 <hr />
 
