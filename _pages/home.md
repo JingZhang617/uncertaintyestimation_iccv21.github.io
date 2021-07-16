@@ -135,8 +135,13 @@ acknowledgements: ""
 <div class="row" id="intro">
     <div class="col-xs-12">
         <h2>Introduction</h2>
-        <p>Convolutional Neural Networks (CNNs) and other deep networks have enabled unprecedented breakthroughs in a variety of computer vision tasks, from image classification to object detection, semantic segmentation, image captioning, visual question answering, and visual dialog. While these models enable superior performance, their lack of decomposability into individually intuitive components makes them hard to interpret. Consequently, when today’s intelligent systems fail, they often fail spectacularly disgracefully without warning or explanation, leaving a user staring at an incoherent output, wondering why the system did what it did. In order to be able to build trust in intelligent systems and move towards their meaningful integration into our everyday lives, we must build `transparent' models that have the ability to explain why they predict what they predict. </p>
-        <p>This tutorial will introduce participants to different aspects of computer vision models beyond performance. Ramprasaath R. Selvaraju will focus on explainable-AI methodologies and how understanding the decision process helps fixing various characteristics of the model. Sara Hooker will address the trustworthiness and the social impact of vision models. Bolei Zhou will focus on the interactive aspect of dissected vision models and its implication to visual editing applications. Aleksander Madry will focus on the robustness of vision models. Therefore, in this tutorial there will be a unification of different perspectives beyond test-set performance that are just as important to have in vision models. </p>
+        <p>Deep neural networks are generally treated as deterministic networks, where a single prediction is produced. They intend to learn a mapping function from the input space to the output space via maximum likelihood estimation (MLE) for the weights. Deep models can also be explained as working on point estimation. A specific weights set is estimated while ignoring any uncertainty that may have in the proper weight values. This type of learning is often susceptible to overfitting. In this tutorial, we will first illustrate the importance of uncertainty estimation, especially uncertainty estimation in dense prediction tasks Then we will summarize existing uncertainty estimation methods. Due to the close connection between uncertainty estimation and model calibration, we further introduce how uncertainty estimation can be used for deep model calibration, especially for dense model calibration.
+
+In this tutorial, we will discuss uncertainty estimation in the following topics:
+1. The definition of uncertainty estimation and the widely studied solutions.
+2. Typical work uncertainty estimation techniques in dense prediction tasks.
+3. The implementation details and tricks for applying different uncertainty estimation solutions in various dense prediction tasks.
+        </p>
     </div>
 </div>
 
