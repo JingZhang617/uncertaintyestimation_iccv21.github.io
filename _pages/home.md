@@ -69,7 +69,7 @@ acknowledgements: ""
     </a>
     <div class="people-name">
       <a href="http://jingzhang617.github.io/">Jing Zhang</a>
-      <h6>Jing Zhang</h6>
+      <h6>The Australian National University</h6>
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
