@@ -81,6 +81,58 @@ acknowledgements: ""
       <h6>Northwestern Polytechnical University</h6>
     </div>
   </div>
+	
+  <div class="col-xs-6 col-lg-3">
+    <a href="http://dpfan.net/">
+      <img class="people-pic" src="{{ "/static/img/people/dengpingfan.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="http://dpfan.net/">Deng-Ping Fan</a>
+      <h6>Inception Institute of Artificial Intelligence</h6>
+    </div>
+  </div>
+	
+  <div class="col-xs-6 col-lg-3">
+    <a href="http://users.cecs.anu.edu.au/~nmb/">
+      <img class="people-pic" src="{{ "/static/img/people/nick.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="http://users.cecs.anu.edu.au/~nmb/">Nick Barnes</a>
+      <h6>The Australian National University</h6>
+    </div>
+  </div>
+	
+  <div class="col-xs-6 col-lg-3">
+    <a href="https://people.csiro.au/m/p/peyman-moghadam/">
+      <img class="people-pic" src="{{ "/static/img/people/peyman.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://people.csiro.au/m/p/peyman-moghadam/">Peyman Moghadam</a>
+      <h6>CSIRO</h6>
+    </div>
+  </div>
+</div>
+
+<div class="col-xs-6 col-lg-3">
+    <a href="https://cecs.anu.edu.au/people/christian-walder/">
+      <img class="people-pic" src="{{ "/static/img/people/walder.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://cecs.anu.edu.au/people/christian-walder/">Christian Walder</a>
+      <h6>CSIRO</h6>
+    </div>
+  </div>
+</div>
+
+<div class="col-xs-6 col-lg-3">
+    <a href="https://www.monash.edu/engineering/mehrtashharandi/">
+      <img class="people-pic" src="{{ "/static/img/people/mehrtash.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://www.monash.edu/engineering/mehrtashharandi/">Mehrtash Harandi</a>
+      <h6>CSIRO</h6>
+    </div>
+  </div>
 </div>
 
 <hr />
