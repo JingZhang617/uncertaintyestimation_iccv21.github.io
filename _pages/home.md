@@ -118,10 +118,13 @@ acknowledgements: ""
     <div class="col-xs-12">
         <h2>Introduction</h2>
         <p>Deep neural networks are generally treated as deterministic networks, where a single prediction is produced. They intend to learn a mapping function from the input space to the output space via maximum likelihood estimation (MLE) for the weights. Deep models can also be explained as working on point estimation. A specific weights set is estimated while ignoring any uncertainty that may have in the proper weight values. This type of learning is often susceptible to overfitting. In this tutorial, we will first illustrate the importance of uncertainty estimation, especially uncertainty estimation in dense prediction tasks Then we will summarize existing uncertainty estimation methods. Due to the close connection between uncertainty estimation and model calibration, we further introduce how uncertainty estimation can be used for deep model calibration, especially for dense model calibration.
-
+<br>
 In this tutorial, we will discuss uncertainty estimation in the following topics:
+<br>
 1. The definition of uncertainty estimation and the widely studied solutions.
+<br>
 2. Typical work uncertainty estimation techniques in dense prediction tasks.
+<br>
 3. The implementation details and tricks for applying different uncertainty estimation solutions in various dense prediction tasks.
         </p>
     </div>
