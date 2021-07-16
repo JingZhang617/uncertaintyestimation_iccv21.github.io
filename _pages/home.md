@@ -65,7 +65,7 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-6 col-lg-3">
     <a href="http://jingzhang617.github.io/">
-      <img class="people-pic" src="{{ "/static/img/people/jing_zhang.jpg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "../static/img/people/jing_zhang.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="http://jingzhang617.github.io/">Jing Zhang</a>
